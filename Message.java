@@ -1,4 +1,4 @@
-public class CIS2323_Week02_Quiz {
+public class Message {
 	public static void main(String[] args)
 	{
 		System.out.println("Christian Reyes");
